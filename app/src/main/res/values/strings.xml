@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Expert11Demo</string>
+    <string name="bookId">"Book Id -&#160;</string>
+    <string name="bookName">"Book Name -&#160;</string>
+    <string name="bookDesc">"Book Description -&#160;</string>
+    <string name="numberOfPages">"Number of pages -&#160;</string>
+    <string name="bookExcerpt">"Excerpt -&#160;</string>
+    <string name="bookPublishDate">"Publish Date -&#160;</string>
+</resources>
