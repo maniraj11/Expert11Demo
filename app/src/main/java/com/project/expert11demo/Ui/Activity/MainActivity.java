@@ -1,3 +1,6 @@
+/**
+ * Created by Maniraj Agarwal on 8/6/20.
+ */
 package com.project.expert11demo.Ui.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -6,7 +9,6 @@ import android.app.Fragment;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.content.Context;
-import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.AsyncTask;
